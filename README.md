@@ -11,3 +11,6 @@
 
 ---
 ```git checkout``` my [website](https://stevejoluc.gitlab.io/my-first-wiki/)
+
+---
+![](https://github.com/stevejoluc/github-stats/blob/master/generated/overview.svg)
