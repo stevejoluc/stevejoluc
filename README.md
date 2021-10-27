@@ -3,7 +3,10 @@
 
 - 👨‍🎓 Currently studying for the Terraform Associate Certification
 - 🌱 I’m currently learning to improve my pipeline skillset
-- ♥️ Passionate about Opensource
+- ♥️ Passionate about
+  - Leadership
+  - Collaboration
+  - Opensource
 - 📫 Let's conect on [LinkedIn](https://www.linkedin.com/in/steven-lucero/)
 
 ---
