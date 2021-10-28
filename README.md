@@ -2,7 +2,6 @@
 ---
 
 - 👨‍🎓 Currently studying for the Terraform Associate Certification
-- 🌱 I’m currently learning to improve my pipeline skillset
 - ♥️ Passionate about
   - Leadership
   - Collaboration
