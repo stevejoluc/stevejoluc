@@ -1,8 +1,6 @@
 ### Hi there 👋
 ---
-
-- 👨‍🎓 Currently studying for the Terraform Associate Certification
-- ♥️ Passionate about
+- Passionate about
   - Leadership
   - Collaboration
   - Opensource
