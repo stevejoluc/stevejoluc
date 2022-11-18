@@ -1,6 +1,8 @@
 ### Hi there 👋
 ---
-- Passionate about
+- Passionate about:
+  - FinOps
+  - Technology
   - Leadership
   - Collaboration
   - Opensource
